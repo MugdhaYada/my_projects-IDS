@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Mugdha</Author>
+  <LastAuthor>Mugdha</LastAuthor>
+  <Created>2022-02-16T04:06:24Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6510</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#4472C4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#4472C4" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#B4C6E7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#B4C6E7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#F4B084" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#FFFFFF"/>
+   </Borders>
+   <Interior ss:Color="#D9E1F2" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="51" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.5">
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">State</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Murder</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Assault</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">UrbanPop</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Alabama</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">236</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">58</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Alaska</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">263</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Arizona</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">8.1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">294</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Arkansas</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">8.8000000000000007</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">190</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">California</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">276</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">91</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Colorado</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7.9</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">204</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">78</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Connecticut</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">110</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">77</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Delaware</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5.9</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">238</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Florida</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">335</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Georgia</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">17.399999999999999</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">169.9</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Hawaii</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">5.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Idaho</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">54</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Illinois</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">10.4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">249</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">83</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Indiana</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7.2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">113</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Iowa</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.2000000000000002</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">57</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Kansas</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">115</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Kentucky</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">109</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">52</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Louisiana</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">15.4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">249</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Maine</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">83</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Maryland</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">11.3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">300</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Massachusetts</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4.4000000000000004</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">149</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">85</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Michigan</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">12.1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">255</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">74</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Minnesota</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Mississippi</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">16.100000000000001</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">259</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Missouri</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">178</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Montana</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">109</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">53</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Nebraska</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">102</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">62</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Nevada</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">12.2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">252</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">81</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">New Hampshire</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">56</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">New Jersey</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7.4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">89</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">New Mexico</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">11.4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">285</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">New York</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">11.1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">254</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">North Carolina</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">337</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">North Dakota</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">44</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ohio</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7.3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Oklahoma</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6.6</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">151</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">68</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Oregon</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4.9000000000000004</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">159</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Pennsylvania</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6.3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">106</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">72</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Rhode Island</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3.4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">174</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">87</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">South Carolina</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">14.4</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">279</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">South Dakota</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">3.8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">86</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Tennessee</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">13.2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">188</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">59</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Texas</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">12.7</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">201</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Utah</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3.2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">120</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Vermont</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.2000000000000002</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Virginia</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">8.5</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">156</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">63</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Washington</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">145</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">73</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">West Virginia</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5.7</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">81</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">39</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Wisconsin</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">2.6</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">66</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Wyoming</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="Number">6.8</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="Number">161</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>5</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

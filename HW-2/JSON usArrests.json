@@ -1,0 +1,580 @@
+[
+   {
+      "﻿State": "Alabama",
+      "Murder": 13.2,
+      "Assault": 236,
+      "UrbanPop": 58
+   },
+   {
+      "﻿State": "Alaska",
+      "Murder": 10,
+      "Assault": 263,
+      "UrbanPop": 48
+   },
+   {
+      "﻿State": "Arizona",
+      "Murder": 8.1,
+      "Assault": 294,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Arkansas",
+      "Murder": 8.8,
+      "Assault": 190,
+      "UrbanPop": 50
+   },
+   {
+      "﻿State": "California",
+      "Murder": 9,
+      "Assault": 276,
+      "UrbanPop": 91
+   },
+   {
+      "﻿State": "Colorado",
+      "Murder": 7.9,
+      "Assault": 204,
+      "UrbanPop": 78
+   },
+   {
+      "﻿State": "Connecticut",
+      "Murder": 3.3,
+      "Assault": 110,
+      "UrbanPop": 77
+   },
+   {
+      "﻿State": "Delaware",
+      "Murder": 5.9,
+      "Assault": 238,
+      "UrbanPop": 72
+   },
+   {
+      "﻿State": "Florida",
+      "Murder": 15.4,
+      "Assault": 335,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Georgia",
+      "Murder": 17.4,
+      "Assault": 169.9,
+      "UrbanPop": 60
+   },
+   {
+      "﻿State": "Hawaii",
+      "Murder": 5.3,
+      "Assault": 46,
+      "UrbanPop": 83
+   },
+   {
+      "﻿State": "Idaho",
+      "Murder": 2.6,
+      "Assault": 120,
+      "UrbanPop": 54
+   },
+   {
+      "﻿State": "Illinois",
+      "Murder": 10.4,
+      "Assault": 249,
+      "UrbanPop": 83
+   },
+   {
+      "﻿State": "Indiana",
+      "Murder": 7.2,
+      "Assault": 113,
+      "UrbanPop": 65
+   },
+   {
+      "﻿State": "Iowa",
+      "Murder": 2.2,
+      "Assault": 56,
+      "UrbanPop": 57
+   },
+   {
+      "﻿State": "Kansas",
+      "Murder": 6,
+      "Assault": 115,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Kentucky",
+      "Murder": 9.7,
+      "Assault": 109,
+      "UrbanPop": 52
+   },
+   {
+      "﻿State": "Louisiana",
+      "Murder": 15.4,
+      "Assault": 249,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Maine",
+      "Murder": 2.1,
+      "Assault": 83,
+      "UrbanPop": 51
+   },
+   {
+      "﻿State": "Maryland",
+      "Murder": 11.3,
+      "Assault": 300,
+      "UrbanPop": 67
+   },
+   {
+      "﻿State": "Massachusetts",
+      "Murder": 4.4,
+      "Assault": 149,
+      "UrbanPop": 85
+   },
+   {
+      "﻿State": "Michigan",
+      "Murder": 12.1,
+      "Assault": 255,
+      "UrbanPop": 74
+   },
+   {
+      "﻿State": "Minnesota",
+      "Murder": 2.7,
+      "Assault": 72,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Mississippi",
+      "Murder": 16.1,
+      "Assault": 259,
+      "UrbanPop": 44
+   },
+   {
+      "﻿State": "Missouri",
+      "Murder": 9,
+      "Assault": 178,
+      "UrbanPop": 70
+   },
+   {
+      "﻿State": "Montana",
+      "Murder": 6,
+      "Assault": 109,
+      "UrbanPop": 53
+   },
+   {
+      "﻿State": "Nebraska",
+      "Murder": 4.3,
+      "Assault": 102,
+      "UrbanPop": 62
+   },
+   {
+      "﻿State": "Nevada",
+      "Murder": 12.2,
+      "Assault": 252,
+      "UrbanPop": 81
+   },
+   {
+      "﻿State": "New Hampshire",
+      "Murder": 2.1,
+      "Assault": 57,
+      "UrbanPop": 56
+   },
+   {
+      "﻿State": "New Jersey",
+      "Murder": 7.4,
+      "Assault": 159,
+      "UrbanPop": 89
+   },
+   {
+      "﻿State": "New Mexico",
+      "Murder": 11.4,
+      "Assault": 285,
+      "UrbanPop": 70
+   },
+   {
+      "﻿State": "New York",
+      "Murder": 11.1,
+      "Assault": 254,
+      "UrbanPop": 86
+   },
+   {
+      "﻿State": "North Carolina",
+      "Murder": 13,
+      "Assault": 337,
+      "UrbanPop": 45
+   },
+   {
+      "﻿State": "North Dakota",
+      "Murder": 0.8,
+      "Assault": 45,
+      "UrbanPop": 44
+   },
+   {
+      "﻿State": "Ohio",
+      "Murder": 7.3,
+      "Assault": 120,
+      "UrbanPop": 75
+   },
+   {
+      "﻿State": "Oklahoma",
+      "Murder": 6.6,
+      "Assault": 151,
+      "UrbanPop": 68
+   },
+   {
+      "﻿State": "Oregon",
+      "Murder": 4.9,
+      "Assault": 159,
+      "UrbanPop": 67
+   },
+   {
+      "﻿State": "Pennsylvania",
+      "Murder": 6.3,
+      "Assault": 106,
+      "UrbanPop": 72
+   },
+   {
+      "﻿State": "Rhode Island",
+      "Murder": 3.4,
+      "Assault": 174,
+      "UrbanPop": 87
+   },
+   {
+      "﻿State": "South Carolina",
+      "Murder": 14.4,
+      "Assault": 279,
+      "UrbanPop": 48
+   },
+   {
+      "﻿State": "South Dakota",
+      "Murder": 3.8,
+      "Assault": 86,
+      "UrbanPop": 45
+   },
+   {
+      "﻿State": "Tennessee",
+      "Murder": 13.2,
+      "Assault": 188,
+      "UrbanPop": 59
+   },
+   {
+      "﻿State": "Texas",
+      "Murder": 12.7,
+      "Assault": 201,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Utah",
+      "Murder": 3.2,
+      "Assault": 120,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Vermont",
+      "Murder": 2.2,
+      "Assault": 48,
+      "UrbanPop": 32
+   },
+   {
+      "﻿State": "Virginia",
+      "Murder": 8.5,
+      "Assault": 156,
+      "UrbanPop": 63
+   },
+   {
+      "﻿Sta[
+   {
+      "﻿State": "Alabama",
+      "Murder": 13.2,
+      "Assault": 236,
+      "UrbanPop": 58
+   },
+   {
+      "﻿State": "Alaska",
+      "Murder": 10,
+      "Assault": 263,
+      "UrbanPop": 48
+   },
+   {
+      "﻿State": "Arizona",
+      "Murder": 8.1,
+      "Assault": 294,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Arkansas",
+      "Murder": 8.8,
+      "Assault": 190,
+      "UrbanPop": 50
+   },
+   {
+      "﻿State": "California",
+      "Murder": 9,
+      "Assault": 276,
+      "UrbanPop": 91
+   },
+   {
+      "﻿State": "Colorado",
+      "Murder": 7.9,
+      "Assault": 204,
+      "UrbanPop": 78
+   },
+   {
+      "﻿State": "Connecticut",
+      "Murder": 3.3,
+      "Assault": 110,
+      "UrbanPop": 77
+   },
+   {
+      "﻿State": "Delaware",
+      "Murder": 5.9,
+      "Assault": 238,
+      "UrbanPop": 72
+   },
+   {
+      "﻿State": "Florida",
+      "Murder": 15.4,
+      "Assault": 335,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Georgia",
+      "Murder": 17.4,
+      "Assault": 169.9,
+      "UrbanPop": 60
+   },
+   {
+      "﻿State": "Hawaii",
+      "Murder": 5.3,
+      "Assault": 46,
+      "UrbanPop": 83
+   },
+   {
+      "﻿State": "Idaho",
+      "Murder": 2.6,
+      "Assault": 120,
+      "UrbanPop": 54
+   },
+   {
+      "﻿State": "Illinois",
+      "Murder": 10.4,
+      "Assault": 249,
+      "UrbanPop": 83
+   },
+   {
+      "﻿State": "Indiana",
+      "Murder": 7.2,
+      "Assault": 113,
+      "UrbanPop": 65
+   },
+   {
+      "﻿State": "Iowa",
+      "Murder": 2.2,
+      "Assault": 56,
+      "UrbanPop": 57
+   },
+   {
+      "﻿State": "Kansas",
+      "Murder": 6,
+      "Assault": 115,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Kentucky",
+      "Murder": 9.7,
+      "Assault": 109,
+      "UrbanPop": 52
+   },
+   {
+      "﻿State": "Louisiana",
+      "Murder": 15.4,
+      "Assault": 249,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Maine",
+      "Murder": 2.1,
+      "Assault": 83,
+      "UrbanPop": 51
+   },
+   {
+      "﻿State": "Maryland",
+      "Murder": 11.3,
+      "Assault": 300,
+      "UrbanPop": 67
+   },
+   {
+      "﻿State": "Massachusetts",
+      "Murder": 4.4,
+      "Assault": 149,
+      "UrbanPop": 85
+   },
+   {
+      "﻿State": "Michigan",
+      "Murder": 12.1,
+      "Assault": 255,
+      "UrbanPop": 74
+   },
+   {
+      "﻿State": "Minnesota",
+      "Murder": 2.7,
+      "Assault": 72,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Mississippi",
+      "Murder": 16.1,
+      "Assault": 259,
+      "UrbanPop": 44
+   },
+   {
+      "﻿State": "Missouri",
+      "Murder": 9,
+      "Assault": 178,
+      "UrbanPop": 70
+   },
+   {
+      "﻿State": "Montana",
+      "Murder": 6,
+      "Assault": 109,
+      "UrbanPop": 53
+   },
+   {
+      "﻿State": "Nebraska",
+      "Murder": 4.3,
+      "Assault": 102,
+      "UrbanPop": 62
+   },
+   {
+      "﻿State": "Nevada",
+      "Murder": 12.2,
+      "Assault": 252,
+      "UrbanPop": 81
+   },
+   {
+      "﻿State": "New Hampshire",
+      "Murder": 2.1,
+      "Assault": 57,
+      "UrbanPop": 56
+   },
+   {
+      "﻿State": "New Jersey",
+      "Murder": 7.4,
+      "Assault": 159,
+      "UrbanPop": 89
+   },
+   {
+      "﻿State": "New Mexico",
+      "Murder": 11.4,
+      "Assault": 285,
+      "UrbanPop": 70
+   },
+   {
+      "﻿State": "New York",
+      "Murder": 11.1,
+      "Assault": 254,
+      "UrbanPop": 86
+   },
+   {
+      "﻿State": "North Carolina",
+      "Murder": 13,
+      "Assault": 337,
+      "UrbanPop": 45
+   },
+   {
+      "﻿State": "North Dakota",
+      "Murder": 0.8,
+      "Assault": 45,
+      "UrbanPop": 44
+   },
+   {
+      "﻿State": "Ohio",
+      "Murder": 7.3,
+      "Assault": 120,
+      "UrbanPop": 75
+   },
+   {
+      "﻿State": "Oklahoma",
+      "Murder": 6.6,
+      "Assault": 151,
+      "UrbanPop": 68
+   },
+   {
+      "﻿State": "Oregon",
+      "Murder": 4.9,
+      "Assault": 159,
+      "UrbanPop": 67
+   },
+   {
+      "﻿State": "Pennsylvania",
+      "Murder": 6.3,
+      "Assault": 106,
+      "UrbanPop": 72
+   },
+   {
+      "﻿State": "Rhode Island",
+      "Murder": 3.4,
+      "Assault": 174,
+      "UrbanPop": 87
+   },
+   {
+      "﻿State": "South Carolina",
+      "Murder": 14.4,
+      "Assault": 279,
+      "UrbanPop": 48
+   },
+   {
+      "﻿State": "South Dakota",
+      "Murder": 3.8,
+      "Assault": 86,
+      "UrbanPop": 45
+   },
+   {
+      "﻿State": "Tennessee",
+      "Murder": 13.2,
+      "Assault": 188,
+      "UrbanPop": 59
+   },
+   {
+      "﻿State": "Texas",
+      "Murder": 12.7,
+      "Assault": 201,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Utah",
+      "Murder": 3.2,
+      "Assault": 120,
+      "UrbanPop": 80
+   },
+   {
+      "﻿State": "Vermont",
+      "Murder": 2.2,
+      "Assault": 48,
+      "UrbanPop": 32
+   },
+   {
+      "﻿State": "Virginia",
+      "Murder": 8.5,
+      "Assault": 156,
+      "UrbanPop": 63
+   },
+   {
+      "﻿State": "Washington",
+      "Murder": 4,
+      "Assault": 145,
+      "UrbanPop": 73
+   },
+   {
+      "﻿State": "West Virginia",
+      "Murder": 5.7,
+      "Assault": 81,
+      "UrbanPop": 39
+   },
+   {
+      "﻿State": "Wisconsin",
+      "Murder": 2.6,
+      "Assault": 53,
+      "UrbanPop": 66
+   },
+   {
+      "﻿State": "Wyoming",
+      "Murder": 6.8,
+      "Assault": 161,
+      "UrbanPop": 60
+   }
+]
